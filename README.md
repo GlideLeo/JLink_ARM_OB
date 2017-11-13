@@ -1,5 +1,5 @@
 
-![logo](https://raw.githubusercontent.com/JassyL/DAP_Link/master/photos/logo_long.bmp)
+![logo](https://raw.githubusercontent.com/JassyL/github_photos/master/logo_long_s.bmp)
 ---
 # JLink_ARM_OB (STM32F072C8)
 * Author: [DataSheep](https://github.com/JassyL/DAP_Link)
